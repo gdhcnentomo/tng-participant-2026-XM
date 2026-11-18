@@ -2,6 +2,7 @@
 
 This repository contains the template for building [onboarding](https://smart.who.int/trust/concepts_onboarding.html) informations for the Smart Trust Network Attendees. This includes CSCAs, Auth information, signing information and other relevant files for onboarding a participant.
 
+
 # Concepts Onboarding Checklist - Technical Procedure:
 
 The [Concepts Onboarding Checklist](https://smart.who.int/trust/concepts_onboarding_checklist.html) on the Smart-Trust platform is specifically designed to be followed by countries or their representatives as part of the onboarding process. It includes all prerequisites, technical procedures, and necessary commands.
